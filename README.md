@@ -5,11 +5,11 @@
 </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/teuchezh/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ask1509/count.svg" />
 </p>
 <p align="center">
-<a href="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open">
-    <img src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing" width="512" height="128">
+<a href="https://now-playing-66mfrri4j-Ask1509.vercel.app/now-playing?open">
+    <img src="https://now-playing-66mfrri4j-Ask1509.vercel.app/now-playing" width="512" height="128">
 </a>
 </p>
 <p align="center">
