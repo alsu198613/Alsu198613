@@ -11,7 +11,7 @@
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/rahulsain?ext=contest)](https://leetcode.com/rahulsain) -->
 
-## Computer science student, Developer and IT news writer!! 
+## Computer science Student, Developer and IT copywriter!! 
 
 
 - 🌱 I create applications.
