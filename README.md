@@ -1,18 +1,4 @@
-<!--
-### - ⚡ Zdarova 👋  
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Ask1509/count.svg" />
-</p>
-<p align="center">
-<a href="https://now-playing-66mfrri4j-Ask1509.vercel.app/now-playing?open">
-    <img src="https://now-playing-66mfrri4j-Ask1509.vercel.app/now-playing" width="512" height="128">
-</a>
-</p>
-<p align="center">
+
 
 ### Hi there, I'm Sana Askerova 👋
 
