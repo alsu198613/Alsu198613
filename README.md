@@ -11,6 +11,9 @@
 
 ## Computer science student, Developer and IT news writer!! 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
+
 - 🌱 I create applications.
 - 👯 I’m looking to collaborate with other content creators or project collaboration
 - 🥅 2023 Goals: Learn New Methodologies via Freelance
