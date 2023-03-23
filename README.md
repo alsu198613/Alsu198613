@@ -13,8 +13,6 @@
 
 ## Computer science student, Developer and IT news writer!! 
 
-// [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student,+Developer+and+IT+copywriter+! )](https://git.io/typing-svg)//
-
 
 - 🌱 I create applications.
 - 👯 I’m looking to collaborate with other content creators or project collaboration
@@ -83,3 +81,5 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
