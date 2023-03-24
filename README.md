@@ -62,7 +62,7 @@ src="https://github.com/Ask1509/Ask1509/blob/main/icons/Telegram.svg" alt="Ask15
 
 <br>
 <br />
-### 💻This week I spent my time on
+###💻This week I spent my time on
 <!--START_SECTION:waka-->
 
 ```text
