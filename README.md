@@ -62,8 +62,10 @@ src="https://github.com/Ask1509/Ask1509/blob/main/icons/Telegram.svg" alt="Ask15
 
 <br>
 <br />
+
 ### This week I spent my time on 💻
 <!--START_SECTION:waka-->
+
 
 ```text
 Markdown   49 mins         █████████████████████████   100.00 %
@@ -76,6 +78,8 @@ Java   125 mins         ██████████████████�
 ```text
 Python   149 mins         █████████████████████████   100.00 %
 ```
+<!--END_SECTION:waka-->
+
 <br />
 
 <div align="center">
