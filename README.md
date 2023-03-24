@@ -24,8 +24,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/ghostwriter_sana" target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/Ask1509/Ask1509/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Ask1509" height="40" width="40" /></a>
-  src="https://github.com/Ask1509/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Ask1509" height="40" width="40" /></a>
+src="https://github.com/Ask1509/2d7eafe5250314b3d422c86b35de062e0f1f5178//icons/Telegram.svg" alt="Ask1509" height="40" width="40" /></a>
 </p>                                                   
                                                    
                                                    
