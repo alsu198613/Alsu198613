@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Sana Askerova 👋
+
 <h1 align="center">Hi there, I'm <a href="http://ghostwriter-sana.tilda.ws/" target="_blank">Sana Askerova 👋</a> </h1>
 
 <a href="https://github.com/Ask1509">
