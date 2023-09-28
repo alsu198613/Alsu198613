@@ -1,9 +1,9 @@
 
 
 
-<h1 align="center">Hi there, I'm <a href="http://ghostwriter-sana.tilda.ws/" target="_blank">Sana Askerova 👋</a> </h1>
+<h1 align="center">Hi there, I'm Alexandra S 👋 </h1>
 
-<a href="https://github.com/Ask1509">
+<a href="https://github.com/alsu198613">
   <img align="left" alt="Rahul's Github" width="22px" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" />
 </a>
 
@@ -12,21 +12,21 @@
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/rahulsain?ext=contest)](https://leetcode.com/rahulsain) -->
 
-## Computer science Student, Developer and IT copywriter!! 
+## Student of Data Science, Analytics and Developer!! 
 
 
-- 🌱 I create applications.
-- 👯 I’m looking to collaborate with other content creators or project collaboration
+- 🌱 I study in GeekBrains.
+- 👯 I’m looking forward to become a prominent Data Scientist and professional Analyst 
 - 🥅 2023 Goals: Learn New Methodologies via Freelance
-- 📫 How to reach me **OASKEROVA840@GMAIL.COM**
-- 🌍 I speak Russian (native), English (B2)
-- ⚡ Fun fact: I write not only program code, but also books.  I am a writer, my books are sold in bookstores.❤️
+- 📫 How to reach me **LinkedIn: http://linkedin.com/alexandrasukneva**
+- 🌍 I speak Russian (native), English (C2), French (B2), German (B1)
+- ⚡ My interests are: computer science, big data, neural networks, tennis, horseriding, yoga.❤️
 
-### Connect with me:
+<!-- ### Connect with me:
 <p align="left">
 <a href="https://t.me/ghostwriter_sana" target="blank"><img align="center" 
 src="https://github.com/Ask1509/Ask1509/blob/main/icons/Telegram.svg" alt="Ask1509" height="40" width="40" /></a>
-</p>                                                   
+</p>                                                    -->
                                                    
                                                    
 
@@ -84,7 +84,7 @@ Python   149 mins         ██████████████████
 
 <div align="center">
   
-<a href="https://github.com/Ask1509">
+<a href="https://github.com/alsu198613">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsain&theme=dark&hide_langs_below=1" height="220px"/>
 </a>
   
