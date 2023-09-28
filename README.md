@@ -16,7 +16,7 @@
 
 
 - 🌱 I study in GeekBrains.
-- 👯 I’m looking forward to become a prominent Data Scientist and professional Analyst 
+- 👯 I’m looking forward to becoming a prominent Data Scientist and professional Analyst 
 - 🥅 2023 Goals: Learn New Methodologies via Freelance
 - 📫 How to reach me **LinkedIn: http://linkedin.com/alexandrasukneva**
 - 🌍 I speak Russian (native), English (C2), French (B2), German (B1)
